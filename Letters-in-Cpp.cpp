@@ -16,5 +16,6 @@ int main() {
 	system("color 0B");
     
     return 0;
+	
 }
 
